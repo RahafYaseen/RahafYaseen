@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  *final double rate = 0.04,limit = 10000,limit1 = 200;
- * @author dell
+ * @author rahaf
  */
 class SavingsAccount {
     
