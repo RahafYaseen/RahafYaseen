@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  *
- * @author dell
+ * @author rahaf
  */
 public class Loan {
     double amount;
