@@ -7,7 +7,7 @@ package bank.management.system;
 
 /**
  *
- * @author dell
+ * @author rahaf
  */
 public class Investment {
     double amount ; 
