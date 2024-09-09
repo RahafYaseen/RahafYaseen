@@ -12,7 +12,7 @@ import java.util.Random;
 
 /**
  *
- * @author dell
+ * @author rahaf
  */
 
  class Customer extends Transfer  
