@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author dell
+ * @author rahaf
  */
 public class Bank  {
 
